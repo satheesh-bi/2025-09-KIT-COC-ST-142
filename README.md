@@ -14,3 +14,6 @@ cd code
 python extract_audio_features.py
 python split_data.py
 python train.py
+
+Dataset Link: https://github.com/zhou91ying/CSMACD/blob/main/FFHQ/FFHQ_img_with_names.csv
+              https://huggingface.co/datasets/BAAI/ChildMandarin?utm_source=chatgpt.com
